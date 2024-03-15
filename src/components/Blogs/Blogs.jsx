@@ -4,7 +4,7 @@ import Blog from "../Blog/Blog";
 import PropTypes from "prop-types";
 
 
-const Blogs = ({ handleAddBookmark }) =>{
+const Blogs = ({ handleAddBookmark, handleMarkAsRead }) =>{
 
     const [blogs, setBlogs] = useState([]);
 
@@ -20,6 +20,8 @@ const Blogs = ({ handleAddBookmark }) =>{
             <h1 className="text-3xl text-center bg-slate-200 rounded-2xl mt-4">Blogs:{blogs.length}</h1>
         {
             blogs.map((blog) => <Blog
+            
+            handleMarkAsRead={handleMarkAsRead}
             handleAddBookmark={handleAddBookmark}
             key={blog.id} 
             blog={blog}
@@ -31,5 +33,6 @@ const Blogs = ({ handleAddBookmark }) =>{
 
 Blogs.propTypes = {
     handleAddBookmark: PropTypes.func,
+    handleMarkAsRead: PropTypes.func
 }
 export default Blogs;
