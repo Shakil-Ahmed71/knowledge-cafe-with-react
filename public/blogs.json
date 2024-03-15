@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/VqL0kt1/flat-lay-plants-tubes-book.jpg",
+      "title": "The Enigmatic Island",
+      "author": "Samantha Jones",
+      "author_img": "https://www.shutterstock.com/image-photo/confident-intelligence-grey-hair-senior-260nw-261010109.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 12,
+      "hashtags": {
+        "genre": ["Adventure", "Mystery"],
+        "themes": ["Island", "Discovery"]
+      }
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/dtjsbh7/high-angle-plant-notebook-frame.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Michael Smith",
+      "author_img": "https://www.shutterstock.com/image-photo/handsome-welldressed-man-stands-by-600w-278027348.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 8,
+      "hashtags": {
+        "genre": ["Science Fiction", "Thriller"],
+        "themes": ["Space", "Exploration"]
+      }
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/3zLMvC6/social-media-business-concept-with-wooden-blocks-notebook-glasses-pen-keyboard-white-background-flat.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Emily Brown",
+      "author_img": "https://www.shutterstock.com/image-photo/relaxed-attractive-bald-middleaged-man-260nw-382594150.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtags": {
+        "genre": ["Fantasy", "Romance"],
+        "themes": ["Time Travel", "Love"]
+      }
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/s2z9MH3/flat-lay-desk-with-laptop-glasses.jpg",
+      "title": "The Forgotten Realm",
+      "author": "David Johnson",
+      "author_img": "https://www.shutterstock.com/image-photo/senior-caucasian-man-librarian-academic-260nw-1673249914.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 10,
+      "hashtags": {
+        "genre": ["Fantasy", "Adventure"],
+        "themes": ["Magic", "Quest"]
+      }
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/ynRtQBV/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "Shadows in the Mist",
+      "author": "Jessica Lee",
+      "author_img": "https://www.shutterstock.com/image-photo/portrait-smiling-young-caucasian-man-260nw-1817934902.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 7,
+      "hashtags": {
+        "genre": ["Horror", "Suspense"],
+        "themes": ["Darkness", "Fear"]
+      }
+    }
+  ]
