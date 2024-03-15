@@ -7,10 +7,11 @@
       "author_img": "https://www.shutterstock.com/image-photo/confident-intelligence-grey-hair-senior-260nw-261010109.jpg",
       "posted_date": "2024-03-15",
       "reading_time": 12,
-      "hashtags": {
-        "genre": ["Adventure", "Mystery"],
-        "themes": ["Island", "Discovery"]
-      }
+      "hashtags": [ "Fantasy", 
+      "Romance", 
+      "Love", 
+      "TimeTravel" 
+    ]
     },
     {
       "id": 2,
@@ -20,10 +21,12 @@
       "author_img": "https://www.shutterstock.com/image-photo/handsome-welldressed-man-stands-by-600w-278027348.jpg",
       "posted_date": "2024-03-14",
       "reading_time": 8,
-      "hashtags": {
-        "genre": ["Science Fiction", "Thriller"],
-        "themes": ["Space", "Exploration"]
-      }
+      "hashtags": [ "Fantasy", 
+      "Romance", 
+      "Love", 
+      "TimeTravel" 
+    ]
+      
     },
     {
       "id": 3,
@@ -33,10 +36,12 @@
       "author_img": "https://www.shutterstock.com/image-photo/relaxed-attractive-bald-middleaged-man-260nw-382594150.jpg",
       "posted_date": "2024-03-13",
       "reading_time": 15,
-      "hashtags": {
-        "genre": ["Fantasy", "Romance"],
-        "themes": ["Time Travel", "Love"]
-      }
+      "hashtags": [ "Fantasy", 
+                  "Romance", 
+                  "Love", 
+                  "TimeTravel" 
+                ]
+     
     },
     {
       "id": 4,
@@ -46,10 +51,12 @@
       "author_img": "https://www.shutterstock.com/image-photo/senior-caucasian-man-librarian-academic-260nw-1673249914.jpg",
       "posted_date": "2024-03-12",
       "reading_time": 10,
-      "hashtags": {
-        "genre": ["Fantasy", "Adventure"],
-        "themes": ["Magic", "Quest"]
-      }
+      "hashtags": [
+              "Fantasy",
+              "Adventure",
+              "Magic",
+              "Quest"
+              ]
     },
     {
       "id": 5,
@@ -59,9 +66,12 @@
       "author_img": "https://www.shutterstock.com/image-photo/portrait-smiling-young-caucasian-man-260nw-1817934902.jpg",
       "posted_date": "2024-03-11",
       "reading_time": 7,
-      "hashtags": {
-        "genre": ["Horror", "Suspense"],
-        "themes": ["Darkness", "Fear"]
-      }
+      "hashtags": [
+              "Horror",
+              "Suspense",
+              "Darkness",
+              "Fear"
+      ]
+
     }
   ]
